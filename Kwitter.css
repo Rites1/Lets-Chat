@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(70, 152, 207);
+}
+#login_div{
+    background-color: white;
+    width: 1000px;
+    border-radius: 9px;
+}
